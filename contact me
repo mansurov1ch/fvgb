@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <div class="main">
+                    <img class="logo" src="./images/Combined Shape.png" alt="">
+                    <ul>
+                        <a class="aaa" href="./index.html"><li>HOME</li></a>
+                        <a class="aaa" href="./about.html"><li>PORTFOLIO</li></a>
+                        <a class="aaa" href="./page 3/index.html"><li>CONTACT ME</li></a>
+                    </ul>
+                </div>
+            </nav>
+            <main>
+                <div class="layout"></div>
+                <div class="main11">
+                    <h1>Get in Touch</h1>
+                </div>
+                <div class="content-11">
+                    <h1 class="content11">
+                        I’d love to hear about what you’re working on and how I could help. I’m currently looking for a
+                        new role and am open to a wide range of opportunities. My preference would be to find a position
+                        in a company in London. But I’m also happy to hear about opportunites that don’t fit that
+                        description. I’m a hard-working and positive person who will always approach each task with a
+                        sense of purpose and attention to detail. Please do feel free to check out my online profiles
+                        below and get in touch using the form.
+                    </h1>
+                </div>
+                <div class="path">
+                    <img src="./images/Path (2).svg" alt="">
+                    <img src="./images/Path (3).svg" alt="">
+                    <img src="./images/Shape (1).svg" alt="">
+                </div>
+                <div class="layout1"></div>
+            </main>
+
+            <section class="section-12">
+                <div class="sectoin11">
+                    <h1 class="sectoin11-1" >Contact Me</h1>
+                </div>
+                <form class="form">
+                    <label class="label" for="text">Name</label><br>
+                    <input type="text" placeholder="Jana Appleseed"><br>
+                    <label class="label" for="email">Email Address</label><br>
+                    <input type="email" placeholder="email@xample.com"><br>
+                    <label class="label" for="text">Message</label><br>
+                    <input type="text" placeholder="How can I help?"><br>
+                    <button class="btn-5">SEND MESSAGE</button>
+                </form>
+
+
+                
+            </section>
+
+
+
+
+
+
+            
+
+            <footer>
+                    <div class="footer-2">
+                        <img class="img-1" src="./images/Combined Shape 2.png" alt="">
+                        <div class="footer-3">
+                            <ul class="ul" >
+                                <li class="li" >HOME</li>
+                                <li class="li" >PORTFOLIO</li>
+                                <li class="li" >CONTACT ME</li>
+                            </ul>   
+                        </div>
+                        <div class="img-2">
+                            <img src="./images/Path.png" alt="">
+                            <img src="./images/Path (1).png" alt="">
+                            <img src="./images/Shape.png" alt="">
+                        </div>
+                 
+              
+                    </div>
+             
+
+            </footer>
+
+
+        </div>
+
+    </header>
+</body>
+
+</html>
